@@ -1,7 +1,7 @@
 ## Hey peasant.
 I am enpasant, a fan of Chess and a programmer.
 
-I know how to program in *html*, *css*, *Python*, and a lot of other languages.
+I am a great Python programmmer. 
 
 I identify as aroace
 
