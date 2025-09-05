@@ -1,10 +1,5 @@
 ## Hey peasant.
-I am enpasant, a fan of Chess and a programmer.
-
-I am a great Python programmmer. 
-
-I identify as aroace
-
+I am Solwt, a fan of Chess and a programmer.
 I joined Github in March 2024, and i've been making projects here ever since.
 
 <!---
